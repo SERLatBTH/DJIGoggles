@@ -76,6 +76,29 @@ To connect with Mavic 2 Pro:
 6. Press the link button on the dji goggles alternatively on the menu of the goggles go to, Tools -> Settings -> Linking Settings using the touch pad on the right side of the goggles.
 7. The devices are synced and you can now see live view from the camera on the drone.
 
+### Connecting with Third Party Racing Drone
+
+To be able to connect the googles with third party drone you will need DJI OcuSync Air System.
+
+The  Goggles  RE's  built-in  DJI  OcuSync  dual-band  wireless  receiver  is  compatible  with  a  DJI  OcuSync Air System, which you can install on a third-party device to transmit digital video signals. Digital video transmission supports 1280 × 960p50, 1280 × 720p60 and 640 × 480p50, as well as automatic  Frequency-Hopping  Spread  Spectrum  (FHSS)  transmission.  Digital  video  transmission  can also access to up to 19 selectable transmission channels, which can be used for racing drones, model aircraft, ship, and other vehicles, as well as for industrial use.
+
+#### Basic Linking:
+1. Install the Pagoda antenna (SMA interface) to Goggles RE’s SMA por
+2. Install  the  DJI  OcuSync  Air  System  on  a  third-party  device  to  link  with  the  Goggles  RE.  Please  refer to the illustration below to mount and connect the components onto your device.(refer to the picture below)
+![OcuSync Connection](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/DJI%20Goggles/OcuSync-Connection.JPG)
+3. Power on the DJI OcuSync Air Unit and press the link button on the Air Unit with an appropriate tool when the linking status indicator is solid green. The indicator will turn solid red when the air unit is waiting for linking.
+4. Power on the Goggles RE, then press the link button with an appropriate tool in the main menu, or just swipe down on the touch panel with two fingers to enter the shortcut menu and select “Racing Drone (Digital) > Linking Settings > Quick Linking”.
+5. Make sure the distance between Goggles RE and the Air Unit is within 2 m. Both linking status indicators will turn solid green when successfully linked, and the video will display normally
+
+* Notes:
+   - The  S.Bus  port  and  PPM  port  on  the  Air  Unit  are  only  used  when  transmitting  remote  control signals. These ports don’t need to be connected if only using video downlink.
+   - There are up to 19 channels (5.8 GHz: 12 channels; 2.4 GHz: 7 channels) for digital video transmission,  and  each  bandwidth  is  10  MHz.  You  can  manually  select  the  transmission  channel to avoid interference from other devices.
+* Caution:
+  - Please be aware that the Air Unit may become very hot during or after operation. DO NOT touch the Air Unit before it has sufficiently cooled down.  
+  - Please  avoid  using  the  Air  Unit  for  an  extended  period  of  time  when  there  is  no  external  cooling  equipment  present,  as  this  may  cause  the  Air  unit  to  enter  Overheat  Protection  mode. Wait for the module to cool down and then you can restart it. It is recommended to have an external fan installed to dissipate heat.
+  - Place the two antennas on the Air Unit vertically and parallel to each other at least 30 mm apart. Please  note  that  you  should  avoid  placing  the  antennas  level  with  any  electrically  conducive  material.  Also,  make  sure  to  keep  the  bottom  of  the  antenna  at  least  25  mm  away  from  potential  conductors  such  as  cables,  carbon  fiber  frames,  batteries,  and  metals.
+  - If you are only using the Air Unit to transmit downstream video signals, DO NOT use the same frequency band as the upstream control signal to avoid interference.
+
 ## Device's Functionalities and Features
 
 * Live View
@@ -96,8 +119,8 @@ This is all the external cables or equirment that you need for DJI Goggles. Blow
 2. Camera
 3. Pagoda Antenna (SMA interface)
 4. Pagoda Antenna (MMCX interface)
-5. Dipole Antenna *2
-6. Cylindrical Antenna *2
+5. Dipole Antenna * 2
+6. Cylindrical Antenna * 2
 7. Mono 3.5mm Jack Plug to Mono 3.5mm Jack Plug Cable
 8. Mono 3.5mm Jack Plug to Mini-Din Plug Cable
 9. Mono 3.5mm Jack Plug to Furans Square Plug Cable
