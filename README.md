@@ -27,7 +27,7 @@ Storage room - shelf B1
 
 ## In The Box
 
-![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/DJI%20Goggles/Details%20in%20DJI%20Goggles%20Box.jpg)
+![alt text](images/DJI%20Goggles/Details%20in%20DJI%20Goggles%20Box.jpg)
 1. DJI Goggles boxy.
 2. Headband
 3. Charger
@@ -42,8 +42,8 @@ Storage room - shelf B1
   + In the box
   + Disclaimer and safety guidelines
   + Quick start guide
-![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/DJI%20Goggles/Layer%201.jpg)
-![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/DJI%20Goggles/Layer%202.jpg)
+![alt text](images/DJI%20Goggles/Layer%201.jpg)
+![alt text](images/DJI%20Goggles/Layer%202.jpg)
 
 
 ## How To Make It Works
@@ -130,9 +130,9 @@ This is all the external cables or equirment that you need for DJI Goggles. Blow
 13. MMCX to MMCX Cable*2
 14. Plastic Holder
 15. Screw*6
-![alt text](/images/DJI%20OcuSync%20Air%20System/box.jpg)
-![alt text](/images/DJI%20OcuSync%20Air%20System/DJI%20OcuSync%20Air%20System%20Box%20content.jpg)
-![alt text](/images/DJI%20OcuSync%20Air%20System/detailedContent.png)
+![alt text](/images/box.jpg)
+![alt text](/images/DJI%20OcuSync%20Air%20System%20Box%20content.jpg)
+![alt text](/images/detailedContent.png)
 
 ## Putting The Device Back
 
