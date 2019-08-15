@@ -85,7 +85,7 @@ The  Goggles  RE's  built-in  DJI  OcuSync  dual-band  wireless  receiver  is  c
 #### Basic Linking:
 1. Install the Pagoda antenna (SMA interface) to Goggles RE’s SMA por
 2. Install  the  DJI  OcuSync  Air  System  on  a  third-party  device  to  link  with  the  Goggles  RE.  Please  refer to the illustration below to mount and connect the components onto your device.(refer to the picture below)
-![OcuSync Connection](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/DJI%20Goggles/OcuSync-Connection.JPG)
+![OcuSync Connection](images/OcuSync-Connection.JPG)
 3. Power on the DJI OcuSync Air Unit and press the link button on the Air Unit with an appropriate tool when the linking status indicator is solid green. The indicator will turn solid red when the air unit is waiting for linking.
 4. Power on the Goggles RE, then press the link button with an appropriate tool in the main menu, or just swipe down on the touch panel with two fingers to enter the shortcut menu and select “Racing Drone (Digital) > Linking Settings > Quick Linking”.
 5. Make sure the distance between Goggles RE and the Air Unit is within 2 m. Both linking status indicators will turn solid green when successfully linked, and the video will display normally
