@@ -27,7 +27,7 @@ Storage room - shelf B1
 
 ## In The Box
 
-![alt text](images/DJI%20Goggles/Details%20in%20DJI%20Goggles%20Box.jpg)
+![alt text](images/Details%20in%20DJI%20Goggles%20Box.jpg)
 1. DJI Goggles boxy.
 2. Headband
 3. Charger
@@ -42,8 +42,8 @@ Storage room - shelf B1
   + In the box
   + Disclaimer and safety guidelines
   + Quick start guide
-![alt text](images/DJI%20Goggles/Layer%201.jpg)
-![alt text](images/DJI%20Goggles/Layer%202.jpg)
+![alt text](images/Layer%201.jpg)
+![alt text](images/Layer%202.jpg)
 
 
 ## How To Make It Works
